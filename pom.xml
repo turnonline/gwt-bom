@@ -131,6 +131,16 @@
                 <version>2.9</version>
             </dependency>
             <dependency>
+                <groupId>com.google.dagger</groupId>
+                <artifactId>dagger-compiler</artifactId>
+                <version>2.9</version>
+            </dependency>
+            <dependency>
+                <groupId>com.google.dagger</groupId>
+                <artifactId>dagger-producers</artifactId>
+                <version>2.9</version>
+            </dependency>
+            <dependency>
                 <groupId>com.vaadin.polymer</groupId>
                 <artifactId>vaadin-gwt-polymer-elements</artifactId>
                 <version>1.7.0.0</version>
