@@ -141,6 +141,11 @@
                 <version>2.9</version>
             </dependency>
             <dependency>
+                <groupId>com.google.auto.factory</groupId>
+                <artifactId>auto-factory</artifactId>
+                <version>1.0-beta5</version>
+            </dependency>
+            <dependency>
                 <groupId>com.vaadin.polymer</groupId>
                 <artifactId>vaadin-gwt-polymer-elements</artifactId>
                 <version>1.7.0.0</version>
