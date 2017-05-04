@@ -1,2 +1,2 @@
 # gwt-bom
-The GWT Bill of Materials to be used in CtoolkiT libraries.
+The Bill of Materials to be used in GWT based widgets.
