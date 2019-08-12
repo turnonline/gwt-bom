@@ -152,6 +152,11 @@
                 <version>2.24</version>
             </dependency>
             <dependency>
+                <groupId>com.github.nmorel.gwtjackson</groupId>
+                <artifactId>gwt-jackson</artifactId>
+                <version>0.15.4</version>
+            </dependency>
+            <dependency>
                 <groupId>com.google.auto.factory</groupId>
                 <artifactId>auto-factory</artifactId>
                 <version>1.0-beta6</version>
