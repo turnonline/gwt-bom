@@ -161,12 +161,6 @@
                 <artifactId>auto-factory</artifactId>
                 <version>1.0-beta6</version>
             </dependency>
-            <dependency>
-                <groupId>com.tractionsoftware</groupId>
-                <artifactId>gwt-traction</artifactId>
-                <version>1.6.0</version>
-                <scope>provided</scope>
-            </dependency>
         </dependencies>
     </dependencyManagement>
 
