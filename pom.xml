@@ -159,7 +159,7 @@
             <dependency>
                 <groupId>com.google.auto.factory</groupId>
                 <artifactId>auto-factory</artifactId>
-                <version>1.0-beta6</version>
+                <version>1.0-beta7</version>
             </dependency>
         </dependencies>
     </dependencyManagement>
